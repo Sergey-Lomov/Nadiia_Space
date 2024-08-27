@@ -1,0 +1,78 @@
+<Orbits>
+	<!-- Circle orbits -->
+	<Orbit>
+		<title>C1</title>
+		<r1>30</r1>
+		<r2>30</r2>
+		<zero_delta>30</zero_delta>
+		<title_angle>90</title_angle>
+	</Orbit>
+	<Orbit>
+		<title>C2</title>
+		<r1>60</r1>
+		<r2>60</r2>
+		<zero_delta>120</zero_delta>
+		<title_angle>270</title_angle>
+	</Orbit>
+	<Orbit>
+		<title>C3</title>
+		<r1>90</r1>
+		<r2>90</r2>
+		<zero_delta>-180</zero_delta>
+		<title_angle>210</title_angle>
+	</Orbit>
+	<Orbit>
+		<title>C4</title>
+		<r1>120</r1>
+		<r2>120</r2>
+		<title_angle>130</title_angle>
+	</Orbit>
+	
+	<!-- Ellipse orbits -->
+	<Orbit>
+		<title>E1</title>
+		<r1>50</r1>
+		<r2>80</r2>
+		<rotation>30</rotation>
+		<title_angle>90</title_angle>
+	</Orbit>
+	<Orbit>
+		<title>E2</title>
+		<r1>100</r1>
+		<r2>140</r2>
+		<rotation>-60</rotation>
+		<title_angle>90</title_angle>
+	</Orbit>
+	<Orbit>
+		<title>E3</title>
+		<r1>100</r1>
+		<r2>200</r2>
+		<rotation>60</rotation>
+		<title_angle>79</title_angle>
+	</Orbit>
+	<Orbit>
+		<title>E4</title>
+		<r1>140</r1>
+		<r2>200</r2>
+		<rotation>90</rotation>
+		<title_angle>321</title_angle>
+	</Orbit>
+	
+	<!-- Outer orbits -->
+	<Orbit>
+		<title>O1</title>
+		<r1>120</r1>
+		<r2>400</r2>
+		<rotation>-60</rotation>
+		<translation><x>-900</x><y>-520</y></translation>
+		<title_angle>123.5</title_angle>
+	</Orbit>
+	<Orbit>
+		<title>O2</title>
+		<r1>120</r1>
+		<r2>400</r2>
+		<rotation>-60</rotation>
+		<translation><x>900</x><y>520</y></translation>
+		<title_angle>245.8</title_angle>
+	</Orbit>
+</Orbits>
